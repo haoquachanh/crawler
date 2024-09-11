@@ -20,7 +20,7 @@ async function scrapeWebsite(url) {
       const $ = cheerio.load(content);
       count-=1
 
-      // Extract data from the current page
+      // Extract data from the current page (FROM A TABLE)
       $('tbody tr').each((i, el) => {
         const row = $(el);
         const dataRow = {
@@ -61,5 +61,5 @@ async function scrapeWebsite(url) {
 }
 
 // URL của trang web cần scrape
-const url = 'https://qchinese.net/dictionary/mine';
+const url = 'YOUR_URL';
 scrapeWebsite(url);
