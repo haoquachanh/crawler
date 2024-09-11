@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "1",
+    "Hans": "你",
+    "pinyin": "nǐ",
+    "mean": "bạn, anh, chị.."
+  },
+  {
+    "id": "2",
+    "Hans": "您",
+    "pinyin": "nín",
+    "mean": "ngài, bà, ông (trang trọng, lịch sự)"
+  },
+  {
+    "id": "3",
+    "Hans": "好",
+    "pinyin": "hǎo",
+    "mean": "khỏe, tốt"
+  },
+  {
+    "id": "4",
+    "Hans": "再见",
+    "pinyin": "zàijiàn",
+    "mean": "tạm biệt, tái kiến"
+  },
+  {
+    "id": "5",
+    "Hans": "拜拜",
+    "pinyin": "bàibai",
+    "mean": "bái bai, tạm biệt"
+  },
+  {
+    "id": "6",
+    "Hans": "大家",
+    "pinyin": "dàjiā",
+    "mean": "mọi người"
+  },
+  {
+    "id": "7",
+    "Hans": "你们",
+    "pinyin": "nǐmen",
+    "mean": "các anh, các chị, các bạn"
+  },
+  {
+    "id": "8",
+    "Hans": "早上",
+    "pinyin": "zǎoshang",
+    "mean": "buổi sáng"
+  },
+  {
+    "id": "9",
+    "Hans": "早安",
+    "pinyin": "zǎo ān",
+    "mean": "chào buổi sáng"
+  },
+  {
+    "id": "10",
+    "Hans": "对不起",
+    "pinyin": "duìbùqǐ",
+    "mean": "xin lỗi"
+  },
+  {
+    "id": "11",
+    "Hans": "没关系",
+    "pinyin": "méiguānxi",
+    "mean": "không sao cả, đừng ngại"
+  },
+  {
+    "id": "12",
+    "Hans": "谢谢",
+    "pinyin": "xièxie",
+    "mean": "cảm ơn"
+  },
+  {
+    "id": "13",
+    "Hans": "不客气",
+    "pinyin": "bú kèqì",
+    "mean": "đừng khách sáo"
+  },
+  {
+    "id": "14",
+    "Hans": "叫",
+    "pinyin": "jiào",
+    "mean": "gọi, kêu"
+  },
+  {
+    "id": "15",
+    "Hans": "什么",
+    "pinyin": "shénme",
+    "mean": "cái gì, gì, nào"
+  },
+  {
+    "id": "16",
+    "Hans": "名字",
+    "pinyin": "míngzì",
+    "mean": "tên"
+  },
+  {
+    "id": "17",
+    "Hans": "我",
+    "pinyin": "wǒ",
+    "mean": "tôi"
+  },
+  {
+    "id": "18",
+    "Hans": "呢",
+    "pinyin": "ne",
+    "mean": "(câu để hỏi)"
+  },
+  {
+    "id": "19",
+    "Hans": "丽丽",
+    "pinyin": "Lì lì",
+    "mean": "Lily (tên người)"
+  },
+  {
+    "id": "20",
+    "Hans": "王明",
+    "pinyin": "Wáng míng",
+    "mean": "Vương Minh (tên người)"
+  },
+  {
+    "id": "21",
+    "Hans": "姓",
+    "pinyin": "xìng",
+    "mean": "họ, họ tên"
+  },
+  {
+    "id": "22",
+    "Hans": "是",
+    "pinyin": "shì",
+    "mean": "là, phải"
+  },
+  {
+    "id": "23",
+    "Hans": "老师",
+    "pinyin": "lǎoshī",
+    "mean": "thầy cô giáo, lão sư"
+  },
+  {
+    "id": "24",
+    "Hans": "吗",
+    "pinyin": "ma",
+    "mean": "(từ dùng để hỏi)"
+  },
+  {
+    "id": "25",
+    "Hans": "不",
+    "pinyin": "bù",
+    "mean": "không"
+  },
+  {
+    "id": "26",
+    "Hans": "学生",
+    "pinyin": "xuéshēng",
+    "mean": "học sinh"
+  },
+  {
+    "id": "27",
+    "Hans": "也",
+    "pinyin": "yě",
+    "mean": "cũng"
+  },
+  {
+    "id": "28",
+    "Hans": "张",
+    "pinyin": "Zhāng",
+    "mean": "Trương (họ tên)"
+  },
+  {
+    "id": "29",
+    "Hans": "哪",
+    "pinyin": "nǎ",
+    "mean": "đâu, nào"
+  },
+  {
+    "id": "30",
+    "Hans": "国",
+    "pinyin": "guó",
+    "mean": "nước, quốc"
+  },
+  {
+    "id": "31",
+    "Hans": "人",
+    "pinyin": "rén",
+    "mean": "người, nhân"
+  },
+  {
+    "id": "32",
+    "Hans": "中国",
+    "pinyin": "zhōngguó",
+    "mean": "Trung Quốc"
+  },
+  {
+    "id": "33",
+    "Hans": "越南",
+    "pinyin": "yuènán",
+    "mean": "Việt Nam"
+  },
+  {
+    "id": "34",
+    "Hans": "他",
+    "pinyin": "tā",
+    "mean": "anh ta, anh ấy"
+  },
+  {
+    "id": "35",
+    "Hans": "谁",
+    "pinyin": "shéi",
+    "mean": "ai"
+  },
+  {
+    "id": "36",
+    "Hans": "的",
+    "pinyin": "de",
+    "mean": "trợ từ"
+  },
+  {
+    "id": "37",
+    "Hans": "汉语",
+    "pinyin": "hànyǔ",
+    "mean": "hán ngữ, tiếng Trung"
+  },
+  {
+    "id": "38",
+    "Hans": "她",
+    "pinyin": "tā",
+    "mean": "cô ấy"
+  },
+  {
+    "id": "39",
+    "Hans": "妈妈",
+    "pinyin": "māma",
+    "mean": "má, mẹ"
+  },
+  {
+    "id": "40",
+    "Hans": "怎么",
+    "pinyin": "zěnme",
+    "mean": "1. tại sao; 2. thế nào, như thế nào"
+  },
+  {
+    "id": "41",
+    "Hans": "称呼",
+    "pinyin": "chēnghu",
+    "mean": "xưng hô; xưng, gọi; tên gọi"
+  },
+  {
+    "id": "42",
+    "Hans": "同学",
+    "pinyin": "tóngxué",
+    "mean": "bạn học"
+  },
+  {
+    "id": "43",
+    "Hans": "学",
+    "pinyin": "xué",
+    "mean": "học"
+  },
+  {
+    "id": "44",
+    "Hans": "学习",
+    "pinyin": "xuéxí",
+    "mean": "học tập"
+  },
+  {
+    "id": "45",
+    "Hans": "朋友",
+    "pinyin": "péngyou",
+    "mean": "bạn bè, bằng hữu"
+  },
+  {
+    "id": "46",
+    "Hans": "美国",
+    "pinyin": "měiguó",
+    "mean": "nước Mỹ"
+  },
+  {
+    "id": "47",
+    "Hans": "大卫",
+    "pinyin": "dà wèi",
+    "mean": "David (tên người)"
+  },
+  {
+    "id": "48",
+    "Hans": "玛丽",
+    "pinyin": "Mǎlì",
+    "mean": "Mary (tên người)"
+  },
+  {
+    "id": "49",
+    "Hans": "家",
+    "pinyin": "jiā",
+    "mean": "nhà, gia"
+  },
+  {
+    "id": "50",
+    "Hans": "有",
+    "pinyin": "yǒu",
+    "mean": "có"
+  },
+  {
+    "id": "51",
+    "Hans": "几",
+    "pinyin": "jǐ",
+    "mean": "mấy, vài"
+  },
+  {
+    "id": "52",
+    "Hans": "口",
+    "pinyin": "kǒu",
+    "mean": "lượng từ chỉ số người của gia đình"
+  },
+  {
+    "id": "53",
+    "Hans": "女儿",
+    "pinyin": "nǚ'ér",
+    "mean": "đứa con gái"
+  },
+  {
+    "id": "54",
+    "Hans": "岁",
+    "pinyin": "suì",
+    "mean": "tuổi"
+  },
+  {
+    "id": "55",
+    "Hans": "了",
+    "pinyin": "le",
+    "mean": "rồi"
+  },
+  {
+    "id": "56",
+    "Hans": "多",
+    "pinyin": "duō",
+    "mean": "bao nhiêu"
+  },
+  {
+    "id": "57",
+    "Hans": "大",
+    "pinyin": "dà",
+    "mean": "lớn, đại"
+  },
+  {
+    "id": "58",
+    "Hans": "今年",
+    "pinyin": "jīnnián",
+    "mean": "năm nay"
+  },
+  {
+    "id": "59",
+    "Hans": "一",
+    "pinyin": "yī",
+    "mean": "1, số một"
+  },
+  {
+    "id": "60",
+    "Hans": "二",
+    "pinyin": "èr",
+    "mean": "2, số hai"
+  },
+  {
+    "id": "61",
+    "Hans": "三",
+    "pinyin": "sān",
+    "mean": "3, số ba"
+  },
+  {
+    "id": "62",
+    "Hans": "四",
+    "pinyin": "sì",
+    "mean": "4, số bốn"
+  },
+  {
+    "id": "63",
+    "Hans": "五",
+    "pinyin": "wǔ",
+    "mean": "5, số năm"
+  },
+  {
+    "id": "64",
+    "Hans": "六",
+    "pinyin": "liù",
+    "mean": "6, số sáu"
+  },
+  {
+    "id": "65",
+    "Hans": "七",
+    "pinyin": "qī",
+    "mean": "7, số bảy"
+  },
+  {
+    "id": "66",
+    "Hans": "八",
+    "pinyin": "bā",
+    "mean": "8, số tám"
+  },
+  {
+    "id": "67",
+    "Hans": "九",
+    "pinyin": "jiǔ",
+    "mean": "9, số chín"
+  },
+  {
+    "id": "68",
+    "Hans": "十",
+    "pinyin": "shí",
+    "mean": "10, số mười"
+  },
+  {
+    "id": "69",
+    "Hans": "零",
+    "pinyin": "líng",
+    "mean": "0, số không, linh, lẻ"
+  },
+  {
+    "id": "70",
+    "Hans": "会",
+    "pinyin": "huì",
+    "mean": "1. sẽ; 2. biết (thông qua học tập)"
+  },
+  {
+    "id": "71",
+    "Hans": "说",
+    "pinyin": "shuō",
+    "mean": "nói, kể"
+  },
+  {
+    "id": "72",
+    "Hans": "说话",
+    "pinyin": "shuōhuà",
+    "mean": "nói chuyện, nói ra"
+  },
+  {
+    "id": "73",
+    "Hans": "中文",
+    "pinyin": "zhōngwén",
+    "mean": "tiếng Trung Quốc, Trung Văn, tiếng Hoa"
+  },
+  {
+    "id": "74",
+    "Hans": "一点儿",
+    "pinyin": "yīdiǎn er",
+    "mean": "một chút, một ít"
+  },
+  {
+    "id": "75",
+    "Hans": "少",
+    "pinyin": "shǎo",
+    "mean": "ít"
+  },
+  {
+    "id": "76",
+    "Hans": "听",
+    "pinyin": "tīng",
+    "mean": "nghe"
+  },
+  {
+    "id": "77",
+    "Hans": "太",
+    "pinyin": "tài",
+    "mean": "quá, rất"
+  },
+  {
+    "id": "78",
+    "Hans": "做",
+    "pinyin": "zuò",
+    "mean": "làm, nấu"
+  },
+  {
+    "id": "79",
+    "Hans": "菜",
+    "pinyin": "cài",
+    "mean": "1. món ăn; 2. rau cải, rau"
+  },
+  {
+    "id": "80",
+    "Hans": "很",
+    "pinyin": "hěn",
+    "mean": "rất"
+  },
+  {
+    "id": "81",
+    "Hans": "好吃",
+    "pinyin": "hào chī",
+    "mean": "ngon (ăn ngon)"
+  },
+  {
+    "id": "82",
+    "Hans": "写",
+    "pinyin": "xiě",
+    "mean": "viết"
+  },
+  {
+    "id": "83",
+    "Hans": "个",
+    "pinyin": "gè",
+    "mean": "cái; con; quả; trái (lượng từ dùng trước danh từ)"
+  },
+  {
+    "id": "84",
+    "Hans": "汉字",
+    "pinyin": "hànzì",
+    "mean": "Hán tự, chữ Hán"
+  },
+  {
+    "id": "85",
+    "Hans": "字",
+    "pinyin": "zì",
+    "mean": "từ, chữ"
+  },
+  {
+    "id": "86",
+    "Hans": "这",
+    "pinyin": "zhè",
+    "mean": "này, đây"
+  },
+  {
+    "id": "87",
+    "Hans": "那",
+    "pinyin": "nà",
+    "mean": "đó, ấy"
+  },
+  {
+    "id": "88",
+    "Hans": "读",
+    "pinyin": "dú",
+    "mean": "đọc"
+  },
+  {
+    "id": "89",
+    "Hans": "请",
+    "pinyin": "qǐng",
+    "mean": "xin, mời, làm ơn"
+  },
+  {
+    "id": "90",
+    "Hans": "问",
+    "pinyin": "wèn",
+    "mean": "hỏi"
+  },
+  {
+    "id": "91",
+    "Hans": "今天",
+    "pinyin": "jīntiān",
+    "mean": "hôm nay"
+  },
+  {
+    "id": "92",
+    "Hans": "星期",
+    "pinyin": "xīngqī",
+    "mean": "tuần, thứ"
+  },
+  {
+    "id": "93",
+    "Hans": "月",
+    "pinyin": "yuè",
+    "mean": "tháng (trong ngày tháng năm)"
+  },
+  {
+    "id": "94",
+    "Hans": "号",
+    "pinyin": "hào",
+    "mean": "ngày (trong ngày tháng năm)"
+  },
+  {
+    "id": "95",
+    "Hans": "日",
+    "pinyin": "rì",
+    "mean": "1. ngày; 2. Nhật (mặt trời)"
+  },
+  {
+    "id": "96",
+    "Hans": "昨天",
+    "pinyin": "zuótiān",
+    "mean": "hôm qua"
+  },
+  {
+    "id": "97",
+    "Hans": "去",
+    "pinyin": "qù",
+    "mean": "đi"
+  },
+  {
+    "id": "98",
+    "Hans": "学校",
+    "pinyin": "xuéxiào",
+    "mean": "trường học"
+  },
+  {
+    "id": "99",
+    "Hans": "没",
+    "pinyin": "méi",
+    "mean": "không, chưa"
+  },
+  {
+    "id": "100",
+    "Hans": "星期日",
+    "pinyin": "xīngqī rì",
+    "mean": "chủ nhật"
+  },
+  {
+    "id": "101",
+    "Hans": "明天",
+    "pinyin": "míngtiān",
+    "mean": "ngày mai"
+  },
+  {
+    "id": "102",
+    "Hans": "看",
+    "pinyin": "kàn",
+    "mean": "xem, nhìn"
+  },
+  {
+    "id": "103",
+    "Hans": "书",
+    "pinyin": "shū",
+    "mean": "sách"
+  },
+  {
+    "id": "104",
+    "Hans": "见",
+    "pinyin": "jiàn",
+    "mean": "thấy, gặp mặt"
+  },
+  {
+    "id": "105",
+    "Hans": "后天",
+    "pinyin": "hòutiān",
+    "mean": "ngày mốt"
+  },
+  {
+    "id": "106",
+    "Hans": "哪里",
+    "pinyin": "nǎlǐ",
+    "mean": "chỗ nào, ở đâu"
+  },
+  {
+    "id": "107",
+    "Hans": "火车站",
+    "pinyin": "huǒchē zhàn",
+    "mean": "trạm xe lửa, ga tàu hỏa"
+  },
+  {
+    "id": "108",
+    "Hans": "做",
+    "pinyin": "zuò",
+    "mean": "làm"
+  },
+  {
+    "id": "109",
+    "Hans": "买",
+    "pinyin": "mǎi",
+    "mean": "mua"
+  },
+  {
+    "id": "110",
+    "Hans": "票",
+    "pinyin": "piào",
+    "mean": "vé"
+  },
+  {
+    "id": "111",
+    "Hans": "想",
+    "pinyin": "xiǎng",
+    "mean": "1. muốn; 2. nghĩ; 3. nhớ"
+  },
+  {
+    "id": "112",
+    "Hans": "两",
+    "pinyin": "liǎng",
+    "mean": "hai, hai cái, cả hai"
+  },
+  {
+    "id": "113",
+    "Hans": "个",
+    "pinyin": "gè",
+    "mean": "cái; con; quả; trái (dùng trước danh từ)"
+  },
+  {
+    "id": "114",
+    "Hans": "杯子",
+    "pinyin": "bēizi",
+    "mean": "ly, cốc"
+  },
+  {
+    "id": "115",
+    "Hans": "多少",
+    "pinyin": "duōshǎo",
+    "mean": "bao nhiêu (số lượng)"
+  },
+  {
+    "id": "116",
+    "Hans": "钱",
+    "pinyin": "qián",
+    "mean": "tiền"
+  },
+  {
+    "id": "117",
+    "Hans": "块",
+    "pinyin": "kuài",
+    "mean": "đồng (tiền tệ)"
+  },
+  {
+    "id": "118",
+    "Hans": "好看",
+    "pinyin": "hǎokàn",
+    "mean": "đẹp; coi được; xinh đẹp"
+  },
+  {
+    "id": "119",
+    "Hans": "喜欢",
+    "pinyin": "xǐhuān",
+    "mean": "yêu thích, thích"
+  },
+  {
+    "id": "120",
+    "Hans": "我们",
+    "pinyin": "wǒmen",
+    "mean": "chúng tôi, chúng ta"
+  },
+  {
+    "id": "121",
+    "Hans": "下午",
+    "pinyin": "xiàwǔ",
+    "mean": "buổi chiều"
+  },
+  {
+    "id": "122",
+    "Hans": "商店",
+    "pinyin": "shāngdiàn",
+    "mean": "cửa hàng, cửa tiệm"
+  },
+  {
+    "id": "123",
+    "Hans": "吧",
+    "pinyin": "ba",
+    "mean": "đi, nhé, nha"
+  },
+  {
+    "id": "124",
+    "Hans": "喝",
+    "pinyin": "hē",
+    "mean": "uống"
+  },
+  {
+    "id": "125",
+    "Hans": "茶",
+    "pinyin": "chá",
+    "mean": "trà"
+  },
+  {
+    "id": "126",
+    "Hans": "中午",
+    "pinyin": "zhōngwǔ",
+    "mean": "buổi trưa"
+  },
+  {
+    "id": "127",
+    "Hans": "吃",
+    "pinyin": "chī",
+    "mean": "ăn"
+  },
+  {
+    "id": "128",
+    "Hans": "米饭",
+    "pinyin": "mǐfàn",
+    "mean": "cơm"
+  },
+  {
+    "id": "129",
+    "Hans": "儿子",
+    "pinyin": "érzi",
+    "mean": "con trai"
+  },
+  {
+    "id": "130",
+    "Hans": "爸爸",
+    "pinyin": "bàba",
+    "mean": "bố, ba"
+  },
+  {
+    "id": "131",
+    "Hans": "在",
+    "pinyin": "zài",
+    "mean": "đang, ở"
+  },
+  {
+    "id": "132",
+    "Hans": "哪儿",
+    "pinyin": "nǎ'er",
+    "mean": "chỗ nào, ở đâu"
+  },
+  {
+    "id": "133",
+    "Hans": "公司",
+    "pinyin": "gōngsī",
+    "mean": "công ty"
+  },
+  {
+    "id": "134",
+    "Hans": "小",
+    "pinyin": "xiǎo",
+    "mean": "nhỏ"
+  },
+  {
+    "id": "135",
+    "Hans": "狗",
+    "pinyin": "gǒu",
+    "mean": "con chó"
+  },
+  {
+    "id": "136",
+    "Hans": "那儿",
+    "pinyin": "nà'er",
+    "mean": "chỗ đó, nơi ấy"
+  },
+  {
+    "id": "137",
+    "Hans": "椅子",
+    "pinyin": "yǐzi",
+    "mean": "cái ghế"
+  },
+  {
+    "id": "138",
+    "Hans": "下面",
+    "pinyin": "xiàmiàn",
+    "mean": "bên dưới, mặt dưới"
+  },
+  {
+    "id": "139",
+    "Hans": "下",
+    "pinyin": "xià",
+    "mean": "sau, dưới"
+  },
+  {
+    "id": "140",
+    "Hans": "猫",
+    "pinyin": "māo",
+    "mean": "con mèo"
+  },
+  {
+    "id": "141",
+    "Hans": "这儿",
+    "pinyin": "zhè er",
+    "mean": "chỗ này, nơi đây"
+  },
+  {
+    "id": "142",
+    "Hans": "里",
+    "pinyin": "lǐ",
+    "mean": "ở trong, bên trong"
+  },
+  {
+    "id": "143",
+    "Hans": "工作",
+    "pinyin": "gōngzuò",
+    "mean": "công việc, làm việc"
+  },
+  {
+    "id": "144",
+    "Hans": "医院",
+    "pinyin": "yīyuàn",
+    "mean": "bệnh viện, y viện"
+  },
+  {
+    "id": "145",
+    "Hans": "医生",
+    "pinyin": "yīshēng",
+    "mean": "bác sĩ"
+  },
+  {
+    "id": "146",
+    "Hans": "职员",
+    "pinyin": "zhíyuán",
+    "mean": "viên chức, nhân viên văn phòng"
+  },
+  {
+    "id": "147",
+    "Hans": "银行",
+    "pinyin": "yínháng",
+    "mean": "ngân hàng"
+  },
+  {
+    "id": "148",
+    "Hans": "上班",
+    "pinyin": "shàngbān",
+    "mean": "đi làm, lên ca"
+  },
+  {
+    "id": "149",
+    "Hans": "上",
+    "pinyin": "shàng",
+    "mean": "trên, phía trên, đi lên"
+  },
+  {
+    "id": "150",
+    "Hans": "本",
+    "pinyin": "běn",
+    "mean": "quyển, cuốn (lượng từ dành cho sách)"
+  },
+  {
+    "id": "151",
+    "Hans": "桌子",
+    "pinyin": "zhuōzi",
+    "mean": "cái bàn"
+  },
+  {
+    "id": "152",
+    "Hans": "电脑",
+    "pinyin": "diànnǎo",
+    "mean": "vi tính"
+  },
+  {
+    "id": "153",
+    "Hans": "和",
+    "pinyin": "hé",
+    "mean": "và"
+  },
+  {
+    "id": "154",
+    "Hans": "能",
+    "pinyin": "néng",
+    "mean": "có thể; có khả năng"
+  },
+  {
+    "id": "155",
+    "Hans": "坐",
+    "pinyin": "zuò",
+    "mean": "ngồi"
+  },
+  {
+    "id": "156",
+    "Hans": "没有",
+    "pinyin": "méiyǒu",
+    "mean": "không có, chưa"
+  },
+  {
+    "id": "157",
+    "Hans": "前面",
+    "pinyin": "qiánmiàn",
+    "mean": "mặt trước, phía trước"
+  },
+  {
+    "id": "158",
+    "Hans": "前",
+    "pinyin": "qián",
+    "mean": "trước"
+  },
+  {
+    "id": "159",
+    "Hans": "后面",
+    "pinyin": "hòumiàn",
+    "mean": "phía sau, mặt sau"
+  },
+  {
+    "id": "160",
+    "Hans": "后",
+    "pinyin": "hòu",
+    "mean": "sau, phía sau"
+  },
+  {
+    "id": "161",
+    "Hans": "现在",
+    "pinyin": "xiànzài",
+    "mean": "hiện tại, bây giờ"
+  },
+  {
+    "id": "162",
+    "Hans": "点",
+    "pinyin": "diǎn",
+    "mean": "giờ (thời gian)"
+  },
+  {
+    "id": "163",
+    "Hans": "分",
+    "pinyin": "fēn",
+    "mean": "phút (thời gian)"
+  },
+  {
+    "id": "164",
+    "Hans": "时候",
+    "pinyin": "shíhòu",
+    "mean": "khi, lúc"
+  },
+  {
+    "id": "165",
+    "Hans": "北京",
+    "pinyin": "běijīng",
+    "mean": "Bắc Kinh (thủ đô Trung Quốc)"
+  },
+  {
+    "id": "166",
+    "Hans": "上午",
+    "pinyin": "shàngwǔ",
+    "mean": "buổi sáng"
+  },
+  {
+    "id": "167",
+    "Hans": "住",
+    "pinyin": "zhù",
+    "mean": "ở, sống, trú"
+  },
+  {
+    "id": "168",
+    "Hans": "天",
+    "pinyin": "tiān",
+    "mean": "ngày, trời"
+  },
+  {
+    "id": "169",
+    "Hans": "回来",
+    "pinyin": "huílai",
+    "mean": "về lại, trở về"
+  },
+  {
+    "id": "170",
+    "Hans": "电影",
+    "pinyin": "diànyǐng",
+    "mean": "phim"
+  },
+  {
+    "id": "171",
+    "Hans": "天气",
+    "pinyin": "tiānqì",
+    "mean": "thời tiết"
+  },
+  {
+    "id": "172",
+    "Hans": "怎么样",
+    "pinyin": "zěnme yàng",
+    "mean": "như nào, thế nào"
+  },
+  {
+    "id": "173",
+    "Hans": "冷",
+    "pinyin": "lěng",
+    "mean": "lạnh"
+  },
+  {
+    "id": "174",
+    "Hans": "热",
+    "pinyin": "rè",
+    "mean": "nóng"
+  },
+  {
+    "id": "175",
+    "Hans": "下雨",
+    "pinyin": "xià yǔ",
+    "mean": "đổ mưa"
+  },
+  {
+    "id": "176",
+    "Hans": "雨",
+    "pinyin": "yǔ",
+    "mean": "mưa"
+  },
+  {
+    "id": "177",
+    "Hans": "小姐",
+    "pinyin": "xiǎojiě",
+    "mean": "tiểu thư, quý cô"
+  },
+  {
+    "id": "178",
+    "Hans": "来",
+    "pinyin": "lái",
+    "mean": "lại, đến, tới"
+  },
+  {
+    "id": "179",
+    "Hans": "身体",
+    "pinyin": "shēntǐ",
+    "mean": "thân thể, sức khỏe"
+  },
+  {
+    "id": "180",
+    "Hans": "怎么了",
+    "pinyin": "zěnme le",
+    "mean": "sao vậy, có chuyện gì"
+  },
+  {
+    "id": "181",
+    "Hans": "水",
+    "pinyin": "shuǐ",
+    "mean": "nước"
+  },
+  {
+    "id": "182",
+    "Hans": "水果",
+    "pinyin": "shuǐguǒ",
+    "mean": "trái cây"
+  },
+  {
+    "id": "183",
+    "Hans": "一些",
+    "pinyin": "yīxiē",
+    "mean": "một vài, một số"
+  },
+  {
+    "id": "184",
+    "Hans": "苹果",
+    "pinyin": "píngguǒ",
+    "mean": "trái táo"
+  },
+  {
+    "id": "185",
+    "Hans": "爱",
+    "pinyin": "ài",
+    "mean": "yêu"
+  },
+  {
+    "id": "186",
+    "Hans": "喂",
+    "pinyin": "wèi",
+    "mean": "alo"
+  },
+  {
+    "id": "187",
+    "Hans": "电视",
+    "pinyin": "diànshì",
+    "mean": "ti vi"
+  },
+  {
+    "id": "188",
+    "Hans": "找",
+    "pinyin": "zhǎo",
+    "mean": "tìm"
+  },
+  {
+    "id": "189",
+    "Hans": "对",
+    "pinyin": "duì",
+    "mean": "đúng"
+  },
+  {
+    "id": "190",
+    "Hans": "睡觉",
+    "pinyin": "shuìjiào",
+    "mean": "ngủ"
+  },
+  {
+    "id": "191",
+    "Hans": "给",
+    "pinyin": "gěi",
+    "mean": "cho"
+  },
+  {
+    "id": "192",
+    "Hans": "打电话",
+    "pinyin": "dǎ diànhuà",
+    "mean": "gọi điện thoại"
+  },
+  {
+    "id": "193",
+    "Hans": "位",
+    "pinyin": "wèi",
+    "mean": "vị (lượng từ trang trọng cho người)"
+  },
+  {
+    "id": "194",
+    "Hans": "电话",
+    "pinyin": "diànhuà",
+    "mean": "điện thoại"
+  },
+  {
+    "id": "195",
+    "Hans": "号码",
+    "pinyin": "hàomǎ",
+    "mean": "số, mã số"
+  },
+  {
+    "id": "196",
+    "Hans": "的时候",
+    "pinyin": "de shíhòu",
+    "mean": "khi/lúc …"
+  },
+  {
+    "id": "197",
+    "Hans": "看见",
+    "pinyin": "kànjiàn",
+    "mean": "nhìn thấy"
+  },
+  {
+    "id": "198",
+    "Hans": "先生",
+    "pinyin": "xiānshēng",
+    "mean": "tiên sinh, ông"
+  },
+  {
+    "id": "199",
+    "Hans": "开",
+    "pinyin": "kāi",
+    "mean": "mở, lái xe (xe hơi)"
+  },
+  {
+    "id": "200",
+    "Hans": "车",
+    "pinyin": "chē",
+    "mean": "xe"
+  },
+  {
+    "id": "201",
+    "Hans": "东西",
+    "pinyin": "dōngxī",
+    "mean": "đồ vật, đồ đạc"
+  },
+  {
+    "id": "202",
+    "Hans": "分钟",
+    "pinyin": "fēnzhōng",
+    "mean": "phút"
+  },
+  {
+    "id": "203",
+    "Hans": "张",
+    "pinyin": "zhāng",
+    "mean": "Trương (họ tên)"
+  },
+  {
+    "id": "204",
+    "Hans": "些",
+    "pinyin": "xiē",
+    "mean": "những, các"
+  },
+  {
+    "id": "205",
+    "Hans": "衣服",
+    "pinyin": "yī·fu",
+    "mean": "áo quần, y phục"
+  },
+  {
+    "id": "206",
+    "Hans": "漂亮",
+    "pinyin": "piàoliang",
+    "mean": "xinh đẹp"
+  },
+  {
+    "id": "207",
+    "Hans": "都",
+    "pinyin": "dōu",
+    "mean": "đều"
+  },
+  {
+    "id": "208",
+    "Hans": "这么",
+    "pinyin": "zhème",
+    "mean": "… như vậy"
+  },
+  {
+    "id": "209",
+    "Hans": "认识",
+    "pinyin": "rènshì",
+    "mean": "nhận thức, quen biết"
+  },
+  {
+    "id": "210",
+    "Hans": "李",
+    "pinyin": "lǐ",
+    "mean": "Lý (họ tên)"
+  },
+  {
+    "id": "211",
+    "Hans": "年",
+    "pinyin": "nián",
+    "mean": "năm"
+  },
+  {
+    "id": "212",
+    "Hans": "同事",
+    "pinyin": "tóngshì",
+    "mean": "đồng sự, đồng nghiệp"
+  },
+  {
+    "id": "213",
+    "Hans": "饭店",
+    "pinyin": "fàndiàn",
+    "mean": "khách sạn, nhà hàng"
+  },
+  {
+    "id": "214",
+    "Hans": "啊",
+    "pinyin": "a",
+    "mean": "a"
+  },
+  {
+    "id": "215",
+    "Hans": "高兴",
+    "pinyin": "gāoxìng",
+    "mean": "vui vẻ"
+  },
+  {
+    "id": "216",
+    "Hans": "飞机",
+    "pinyin": "fēijī",
+    "mean": "máy bay"
+  },
+  {
+    "id": "217",
+    "Hans": "出租车",
+    "pinyin": "chūzū chē",
+    "mean": "xe taxi"
+  },
+  {
+    "id": "218",
+    "Hans": "火车",
+    "pinyin": "huǒchē",
+    "mean": "xe lửa"
+  },
+  {
+    "id": "219",
+    "Hans": "要",
+    "pinyin": "yào",
+    "mean": "muốn, cần, phải"
+  },
+  {
+    "id": "220",
+    "Hans": "新",
+    "pinyin": "xīn",
+    "mean": "mới"
+  },
+  {
+    "id": "221",
+    "Hans": "件",
+    "pinyin": "jiàn",
+    "mean": "cái, (lượng từ dành cho quần áo)"
+  },
+  {
+    "id": "222",
+    "Hans": "一起",
+    "pinyin": "yīqǐ",
+    "mean": "cùng nhau"
+  },
+  {
+    "id": "223",
+    "Hans": "走",
+    "pinyin": "zǒu",
+    "mean": "đi, đi bộ"
+  },
+  {
+    "id": "224",
+    "Hans": "出去",
+    "pinyin": "chūqù",
+    "mean": "đi ra"
+  },
+  {
+    "id": "225",
+    "Hans": "跑步",
+    "pinyin": "pǎobù",
+    "mean": "chạy bộ"
+  },
+  {
+    "id": "226",
+    "Hans": "跑",
+    "pinyin": "pǎo",
+    "mean": "chạy"
+  },
+  {
+    "id": "227",
+    "Hans": "运动",
+    "pinyin": "yùndòng",
+    "mean": "vận động, thể thao"
+  },
+  {
+    "id": "228",
+    "Hans": "最",
+    "pinyin": "zuì",
+    "mean": "nhất"
+  },
+  {
+    "id": "229",
+    "Hans": "踢足球",
+    "pinyin": "tī zúqiú",
+    "mean": "đá banh, đá bóng"
+  },
+  {
+    "id": "230",
+    "Hans": "踢",
+    "pinyin": "tī",
+    "mean": "đá"
+  },
+  {
+    "id": "231",
+    "Hans": "旅游",
+    "pinyin": "lǚyóu",
+    "mean": "du lịch"
+  },
+  {
+    "id": "232",
+    "Hans": "上海",
+    "pinyin": "shànghǎi",
+    "mean": "Thượng Hải"
+  },
+  {
+    "id": "233",
+    "Hans": "冬天",
+    "pinyin": "dōngtiān",
+    "mean": "ngày đông, mùa đông"
+  },
+  {
+    "id": "234",
+    "Hans": "已经",
+    "pinyin": "yǐjīng",
+    "mean": "đã"
+  },
+  {
+    "id": "235",
+    "Hans": "觉得",
+    "pinyin": "juéde",
+    "mean": "cho rằng, cảm thấy"
+  },
+  {
+    "id": "236",
+    "Hans": "为什么",
+    "pinyin": "wèishénme",
+    "mean": "vì sao, tại sao"
+  },
+  {
+    "id": "237",
+    "Hans": "知道",
+    "pinyin": "zhīdào",
+    "mean": "biết, nhận biết"
+  },
+  {
+    "id": "238",
+    "Hans": "只",
+    "pinyin": "zhī",
+    "mean": "lượng từ dành cho con mèo/chó"
+  },
+  {
+    "id": "239",
+    "Hans": "它",
+    "pinyin": "tā",
+    "mean": "nó; cái đó; điều đó; việc ấy (đại từ chỉ sự vật, số ít.)"
+  },
+  {
+    "id": "240",
+    "Hans": "眼睛",
+    "pinyin": "yǎnjīng",
+    "mean": "đôi mắt"
+  },
+  {
+    "id": "241",
+    "Hans": "到",
+    "pinyin": "dào",
+    "mean": "đến"
+  },
+  {
+    "id": "242",
+    "Hans": "晚",
+    "pinyin": "wǎn",
+    "mean": "muộn, trễ"
+  },
+  {
+    "id": "243",
+    "Hans": "起床",
+    "pinyin": "qǐchuáng",
+    "mean": "thức dậy"
+  },
+  {
+    "id": "244",
+    "Hans": "早上",
+    "pinyin": "zǎoshang",
+    "mean": "buổi sáng"
+  },
+  {
+    "id": "245",
+    "Hans": "每",
+    "pinyin": "měi",
+    "mean": "mỗi"
+  },
+  {
+    "id": "246",
+    "Hans": "早",
+    "pinyin": "zǎo",
+    "mean": "sớm"
+  },
+  {
+    "id": "247",
+    "Hans": "是不是",
+    "pinyin": "shì búshì",
+    "mean": "có phải hay không"
+  },
+  {
+    "id": "248",
+    "Hans": "最近",
+    "pinyin": "zuìjìn",
+    "mean": "gần đây"
+  },
+  {
+    "id": "249",
+    "Hans": "星期天",
+    "pinyin": "xīngqītiān",
+    "mean": "chủ nhật"
+  },
+  {
+    "id": "250",
+    "Hans": "忙",
+    "pinyin": "máng",
+    "mean": "bận"
+  },
+  {
+    "id": "251",
+    "Hans": "时间",
+    "pinyin": "shíjiān",
+    "mean": "thời gian"
+  },
+  {
+    "id": "252",
+    "Hans": "休息",
+    "pinyin": "xiūxi",
+    "mean": "nghỉ ngơi"
+  },
+  {
+    "id": "253",
+    "Hans": "累",
+    "pinyin": "lèi",
+    "mean": "mệt"
+  },
+  {
+    "id": "254",
+    "Hans": "住院",
+    "pinyin": "zhùyuàn",
+    "mean": "nhập viện"
+  },
+  {
+    "id": "255",
+    "Hans": "生病",
+    "pinyin": "shēngbìng",
+    "mean": "sinh bệnh, bị ốm"
+  },
+  {
+    "id": "256",
+    "Hans": "病",
+    "pinyin": "bìng",
+    "mean": "bệnh"
+  },
+  {
+    "id": "257",
+    "Hans": "药",
+    "pinyin": "yào",
+    "mean": "thuốc"
+  },
+  {
+    "id": "258",
+    "Hans": "出院",
+    "pinyin": "chūyuàn",
+    "mean": "xuất viện"
+  },
+  {
+    "id": "259",
+    "Hans": "出",
+    "pinyin": "chū",
+    "mean": "xuất, đi ra"
+  },
+  {
+    "id": "260",
+    "Hans": "女的",
+    "pinyin": "nǚ de",
+    "mean": "con gái, người con gái"
+  },
+  {
+    "id": "261",
+    "Hans": "高",
+    "pinyin": "gāo",
+    "mean": "cao"
+  },
+  {
+    "id": "262",
+    "Hans": "身高",
+    "pinyin": "shēngāo",
+    "mean": "Chiều cao"
+  },
+  {
+    "id": "263",
+    "Hans": "米",
+    "pinyin": "mǐ",
+    "mean": "mét (đơn vị đo)"
+  },
+  {
+    "id": "264",
+    "Hans": "闺蜜",
+    "pinyin": "guīmì",
+    "mean": "bạn thân nữ"
+  },
+  {
+    "id": "265",
+    "Hans": "晚饭",
+    "pinyin": "wǎnfàn",
+    "mean": "cơm tối"
+  },
+  {
+    "id": "266",
+    "Hans": "红色",
+    "pinyin": "hóngsè",
+    "mean": "màu đỏ"
+  },
+  {
+    "id": "267",
+    "Hans": "红",
+    "pinyin": "hóng",
+    "mean": "màu đỏ"
+  },
+  {
+    "id": "268",
+    "Hans": "哥哥",
+    "pinyin": "gēge",
+    "mean": "anh"
+  },
+  {
+    "id": "269",
+    "Hans": "真",
+    "pinyin": "zhēn",
+    "mean": "thật, chân"
+  },
+  {
+    "id": "270",
+    "Hans": "外边",
+    "pinyin": "wàibian",
+    "mean": "bên ngoài"
+  },
+  {
+    "id": "271",
+    "Hans": "玩儿",
+    "pinyin": "wán er",
+    "mean": "chơi, vui chơi"
+  },
+  {
+    "id": "272",
+    "Hans": "玩",
+    "pinyin": "wán",
+    "mean": "chơi"
+  },
+  {
+    "id": "273",
+    "Hans": "早饭",
+    "pinyin": "zǎofàn",
+    "mean": "bữa sáng"
+  },
+  {
+    "id": "274",
+    "Hans": "报纸",
+    "pinyin": "bàozhǐ",
+    "mean": "báo, báo giấy"
+  },
+  {
+    "id": "275",
+    "Hans": "骑",
+    "pinyin": "qí",
+    "mean": "lái, cưỡi (con vật hoặc xe đạp, xe máy)"
+  },
+  {
+    "id": "276",
+    "Hans": "送",
+    "pinyin": "sòng",
+    "mean": "đưa, tiễn, tặng"
+  },
+  {
+    "id": "277",
+    "Hans": "一下",
+    "pinyin": "yīxià",
+    "mean": "một tý, thử xem, một cái"
+  },
+  {
+    "id": "278",
+    "Hans": "牛奶",
+    "pinyin": "niúnǎi",
+    "mean": "sữa bò"
+  },
+  {
+    "id": "279",
+    "Hans": "百",
+    "pinyin": "bǎi",
+    "mean": "trăm, một trăm"
+  },
+  {
+    "id": "280",
+    "Hans": "块",
+    "pinyin": "kuài",
+    "mean": "cái (lượng từ)"
+  },
+  {
+    "id": "281",
+    "Hans": "手表",
+    "pinyin": "shǒubiǎo",
+    "mean": "đồng hồ đeo tay"
+  },
+  {
+    "id": "282",
+    "Hans": "白色",
+    "pinyin": "báisè",
+    "mean": "màu trắng"
+  },
+  {
+    "id": "283",
+    "Hans": "白",
+    "pinyin": "bái",
+    "mean": "trắng"
+  },
+  {
+    "id": "284",
+    "Hans": "旁边",
+    "pinyin": "pángbiān",
+    "mean": "bên cạnh, kế bên người"
+  },
+  {
+    "id": "285",
+    "Hans": "千",
+    "pinyin": "qiān",
+    "mean": "1000, ngàn, Thiên"
+  },
+  {
+    "id": "286",
+    "Hans": "房间",
+    "pinyin": "fángjiān",
+    "mean": "phòng"
+  },
+  {
+    "id": "287",
+    "Hans": "丈夫",
+    "pinyin": "zhàngfū",
+    "mean": "trượng phu, chồng"
+  },
+  {
+    "id": "288",
+    "Hans": "粉色",
+    "pinyin": "fěnsè",
+    "mean": "màu hồng"
+  },
+  {
+    "id": "289",
+    "Hans": "粉",
+    "pinyin": "fěn",
+    "mean": "có màu hồng"
+  },
+  {
+    "id": "290",
+    "Hans": "午饭",
+    "pinyin": "wǔfàn",
+    "mean": "bữa trưa; cơm trưa"
+  },
+  {
+    "id": "291",
+    "Hans": "打篮球",
+    "pinyin": "dǎ lánqiú",
+    "mean": "đánh bóng rổ"
+  },
+  {
+    "id": "292",
+    "Hans": "篮球",
+    "pinyin": "lánqiú",
+    "mean": "bóng rổ, banh bóng rổ"
+  },
+  {
+    "id": "293",
+    "Hans": "非常",
+    "pinyin": "fēicháng",
+    "mean": "phi thường, vô cùng"
+  },
+  {
+    "id": "294",
+    "Hans": "开始",
+    "pinyin": "kāishǐ",
+    "mean": "bắt đầu"
+  },
+  {
+    "id": "295",
+    "Hans": "足球",
+    "pinyin": "zúqiú",
+    "mean": "bóng đá"
+  },
+  {
+    "id": "296",
+    "Hans": "已经",
+    "pinyin": "yǐjīng",
+    "mean": "đã"
+  },
+  {
+    "id": "297",
+    "Hans": "生日",
+    "pinyin": "shēngrì",
+    "mean": "sinh nhật"
+  },
+  {
+    "id": "298",
+    "Hans": "快乐",
+    "pinyin": "kuàilè",
+    "mean": "vui vẻ, khoái lạc"
+  },
+  {
+    "id": "299",
+    "Hans": "送给",
+    "pinyin": "sòng gěi",
+    "mean": "tặng cho"
+  },
+  {
+    "id": "300",
+    "Hans": "给",
+    "pinyin": "gěi",
+    "mean": "cho"
+  }
+]
